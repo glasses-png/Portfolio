@@ -1,0 +1,35 @@
+#home{
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+}
+#home img{vertical-align: middle;}
+#home #content{
+    position: absolute;
+    bottom: 0;
+    background: rgb(0,0,0);
+    background: rgba(0, 0, 0, 0.5);
+    color: antiquewhite;
+    width: 100%;
+    padding: 20px;
+}
+  h1{
+    font-family: 'Berkshire Swash', cursive;
+  }
+  #nav{
+      text-align: right;
+  }
+  #nav ul{
+    list-style-type: none;
+  }
+  #nav li{
+      display: inline-block;
+    margin-right: 30px;
+  }
+  #nav a:hover{
+     background-color: black;
+  }
+  #nav a{
+      text-decoration: none;
+      text-transform: uppercase;
+  }
