@@ -2,6 +2,7 @@
     position: relative;
     max-width: 100%;
     margin: auto;
+    /* background-image: url("https://bit.ly/39g7gzP"); */
 }
 #home img{vertical-align: middle;}
 #home #content{
@@ -10,8 +11,9 @@
     background: rgb(0,0,0);
     background: rgba(0, 0, 0, 0.5);
     color: antiquewhite;
-    width: 100%;
+    width: 97%;
     padding: 20px;
+    height: 200px;
 }
   h1{
     font-family: 'Berkshire Swash', cursive;
